@@ -6,4 +6,4 @@
 ```bash
 sudo apt update
 
-![Image](./f142bcd49329854f2ae2cbcf29c95e97.jpg)
+![Image](./339b2fc13fa5a17e2d2bf216676f8fa6.png)
